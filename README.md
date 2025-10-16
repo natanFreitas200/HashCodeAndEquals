@@ -111,10 +111,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para:
 - Adicionar exemplos
 - Melhorar a documentação
 
-## Licença
 
-Este projeto é de código aberto e está disponível sob a licença [MIT](LICENSE).
-
----
-
-**Nota:** Este é um projeto educacional para demonstrar conceitos fundamentais do Java. Para projetos reais, considere usar bibliotecas como Lombok ou records do Java 14+ para gerar automaticamente equals() e hashCode().
